@@ -1,0 +1,5 @@
+## Interface: 20501
+## Title: ManaGain
+## Notes: Display mana gains as floating combat text
+ManaGain.lua
+ManaGain.xml
